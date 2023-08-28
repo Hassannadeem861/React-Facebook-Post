@@ -14,7 +14,7 @@ import share from "./share.png";
 function Post(props) {
   return (
     <div className="heading">
-      <h1><strong>MY Facebok Post</strong></h1>
+      <h1><strong>MY FACEBOOK POST</strong></h1>
       {/* <hr/> */}
       <div className="write-post-container">
         <div className="post-row">
